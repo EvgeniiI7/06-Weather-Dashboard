@@ -36,6 +36,6 @@ The following image demonstrates the application functionality:
 
 
 
-Website: https://evgeniii7.github.io/06-Server-Side-APIs/
+Website: 
 
 ![ScreenShot](assets/images/Screen1.png)

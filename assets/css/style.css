@@ -1,0 +1,38 @@
+html {
+    background-color: #cccccc;
+}
+header {
+    background-color: black;
+    color: white;
+    margin-bottom: -0.5%;
+    padding: 1%;
+}
+.back {
+    background-color: #cccccc;
+}
+.input-group {
+    padding: 5%;
+}
+
+.content {
+    margin: 1%;
+}
+
+.sidebar {
+    margin-top: 0.5%;
+}
+aside {
+    background-color: #bbbbbb;
+}
+.item {
+    padding-left: 12%;
+}
+#forecast {
+    margin-top: 1.5%;
+}
+.lone-day {
+    background-color: teal;
+    color: white;
+    padding: 1%;
+    margin: 3%;
+}

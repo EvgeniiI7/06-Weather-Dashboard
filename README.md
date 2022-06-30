@@ -36,6 +36,6 @@ The following image demonstrates the application functionality:
 
 
 
-Website: 
+Website:  https://evgeniii7.github.io/06-Weather-Dashboard/
 
 ![ScreenShot](assets/images/Screen1.png)
